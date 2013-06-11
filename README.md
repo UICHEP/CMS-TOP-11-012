@@ -1,3 +1,11 @@
+UICHEP/CMS-TOP-11-012 
+=====================
+
+This repository contains the initial attempt to combine all the searches of Zprime to ttbar. The combination was done as an excersise and now most of the know-how is used in the 2012 combination CMS-B2G-13-001.
+
+Resources
+=========
+
 List of directories and their content
 
 overlap: input and script files for the overlap studies.
