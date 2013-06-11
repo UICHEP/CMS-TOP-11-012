@@ -1,0 +1,40 @@
+<h3>Prior Parameters</h3>
+<table cellpadding="2" border="1">
+<tr><th>parameter</th><th>distribution type</th><th>distribution parameters</th></tr>
+<tr><td>eleqcd4j0t_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>vc_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>ele_eff</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>v3j_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>matching_vjets</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>pileup</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>muid</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>jer</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>jes</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>eleqcd4j2t_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>eleqcd4j1t_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>muqcd3j1t_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>vb_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>vj_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>eleqcd3j1t_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>muqcd4j1t_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>ttbar_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>VV_xsec</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>scaling_ttbar</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>matching_ttbar</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>lumi</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>bmistag</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>zl_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>DY_norm</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>nlo_ttbar</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>btagsf</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>scale_vjets</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>btag</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>st_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>scaling_wjets</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>QCD_norm</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>mu_eff</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>eid</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>muqcd4j2t_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+<tr><td>muqcd4j0t_rate</td><td>gauss</td><td>width = 1.0; range = [-5.0, 5.0]; mean = 0.0</td></tr>
+</table>
+

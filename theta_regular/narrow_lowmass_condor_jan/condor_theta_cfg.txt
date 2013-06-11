@@ -1,0 +1,12 @@
+universe = vanilla
+Executable = condor_theta_executable.sh
+Requirements = Memory >= 199 &&OpSys == "LINUX"&& (Arch != "DUMMY" )&& Disk > 1000000
+Should_Transfer_Files = YES
+WhenToTransferOutput = ON_EXIT
+Transfer_Input_Files = analysis.py,high_mass_allhadronic_selection.root,high_mass_semileptonic_selection.root,low_mass_semileptonic_selection.root,narrow_low_mass_dilepton_selection.root,wide_low_mass_dilepton_selection.root 
+Output = theta_$(Cluster)_$(Process).stdout
+Error = theta_$(Cluster)_$(Process).stderr
+Log = theta_$(Cluster)_$(Process).log
+notify_user = baites@fnal.gov
+Arguments = 60
+Queue 1

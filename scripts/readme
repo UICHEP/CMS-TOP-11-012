@@ -1,0 +1,13 @@
+collect_histograms.py: collect histograms from mutiple sources and put them in the same file. If the histogram with the same name is found in multiple files, only the first version encounter will be copy to the output file.
+
+collect_histograms.py output.root src1.root [src2.root ...]
+
+
+histogram_name_regularization.[sh|py]: change the name of signal and some background process to make it consistent between analyses.
+
+./histogram_name_regularization.sh
+
+histogram_rebinning.py: set the size of the first and latest bin size so the background uncertainty is around 30%.
+
+./histogram_rebinning.py 
+

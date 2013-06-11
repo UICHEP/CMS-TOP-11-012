@@ -1,0 +1,16 @@
+/storage/local/data1/condor/execute/dir_31478
+_condor_stderr
+_condor_stdout
+analysis.py
+condor_exec.exe
+high_mass_allhadronic_selection.root
+high_mass_semileptonic_selection.root
+low_mass_semileptonic_selection.root
+narrow_low_mass_dilepton_selection.root
+wide_low_mass_dilepton_selection.root
+[INFO]  executing script analysis.py
+[INFO]  Running 'theta bayesian_quantiles-zp500-toys:0-52548876f9.cfg'
+[INFO]  Running 'theta bayesian_quantiles-zp500-data-87a9f17cd6.cfg'
+500.00: [2.880180, 1.694572, -0.964842, 5.181050, -1.569999, 2.540655]
+
+[INFO]  workdir is /storage/local/data1/condor/execute/dir_31478/analysis

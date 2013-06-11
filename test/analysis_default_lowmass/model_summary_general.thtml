@@ -1,0 +1,70 @@
+<p>Observables (xmin, xmax, nbins):</p>
+<ul>
+<li>ee (0, 1, 100)</li>
+<li>ele_3jets_1btag_mttbar (200, 2450, 45)</li>
+<li>ele_4jets_0btag_mttbar (300, 2550, 45)</li>
+<li>ele_4jets_1btag_mttbar (300, 2550, 45)</li>
+<li>ele_4jets_2btag_mttbar (300, 2550, 45)</li>
+<li>emu (0, 1, 100)</li>
+<li>mu_3jets_1btag_mttbar (200, 2450, 45)</li>
+<li>mu_4jets_0btag_mttbar (300, 2550, 45)</li>
+<li>mu_4jets_1btag_mttbar (300, 2550, 45)</li>
+<li>mu_4jets_2btag_mttbar (300, 2550, 45)</li>
+<li>mumu (0, 1, 100)</li>
+</ul>
+<p>Background processes:</p>
+<ul>
+<li>DY</li>
+<li>VV</li>
+<li>WJets</li>
+<li>qcd</li>
+<li>singletop</li>
+<li>ttbar</li>
+<li>wb</li>
+<li>wc</li>
+<li>wlight</li>
+<li>zb</li>
+<li>zc</li>
+<li>zlight</li>
+</ul>
+<p>Signal processes:</p><ul>
+<li>zp1000</li>
+</ul>
+<p>Nuisance parameters (includes only those which apply to the background-only model):</p>
+<ul>
+<li>DY_norm (rate only)</li>
+<li>QCD_norm (rate only)</li>
+<li>VV_xsec (rate only)</li>
+<li>bmistag (morph only)</li>
+<li>btag (morph only)</li>
+<li>btagsf (rate only)</li>
+<li>eid (rate only)</li>
+<li>ele_eff (rate only)</li>
+<li>eleqcd3j1t_rate (rate only)</li>
+<li>eleqcd4j0t_rate (rate only)</li>
+<li>eleqcd4j1t_rate (rate only)</li>
+<li>eleqcd4j2t_rate (rate only)</li>
+<li>jer (morph only)</li>
+<li>jes (morph only)</li>
+<li>lumi (rate only)</li>
+<li>matching_ttbar (morph only)</li>
+<li>matching_vjets (rate only)</li>
+<li>mu_eff (rate only)</li>
+<li>muid (rate only)</li>
+<li>muqcd3j1t_rate (rate only)</li>
+<li>muqcd4j0t_rate (rate only)</li>
+<li>muqcd4j1t_rate (rate only)</li>
+<li>muqcd4j2t_rate (rate only)</li>
+<li>nlo_ttbar (morph only)</li>
+<li>pileup (morph only)</li>
+<li>scale_vjets (rate only)</li>
+<li>scaling_ttbar (morph only)</li>
+<li>scaling_wjets (morph only)</li>
+<li>st_rate (rate only)</li>
+<li>ttbar_rate (rate only)</li>
+<li>v3j_rate (rate only)</li>
+<li>vb_rate (rate only)</li>
+<li>vc_rate (rate only)</li>
+<li>vj_rate (rate only)</li>
+<li>zl_rate (rate only)</li>
+</ul>
